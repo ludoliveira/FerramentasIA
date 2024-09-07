@@ -27,3 +27,22 @@ Este projeto web apresenta uma interface simples para pesquisar e descobrir dife
 * **Link:** Um link para o site oficial da ferramenta.
 
 **Exemplo:** Se você digitar "imagens", a ferramenta pode mostrar resultados como "Midjourney", "Stable Diffusion" e "DALL-E 2", com informações sobre cada uma delas.
+## Tecnologias Utilizadas
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+* **Linguagens de programação:**
+  * JavaScript: Linguagem principal para a lógica da aplicação.
+* **Ferramentas:**
+  * Git: Para controle de versão.
+  * Node.js: (Se utilizado para executar o JavaScript fora do navegador) Ambiente de execução JavaScript.
+  * Editor de código Visual Studio Code.
+* **Outras tecnologias:**
+  * HTML: Estrutura da página web.
+  * CSS: Estilização da página.
+
+**Explicação:**
+
+* **Linguagens de programação:** Lista as linguagens utilizadas no projeto.
+* **Ferramentas:** Menciona as ferramentas essenciais para o desenvolvimento, como sistemas de controle de versão, ambientes de execução e editores de código.
+* **Outras tecnologias:** Inclui outras tecnologias relevantes, como pré-processadores CSS, linguagens de template, etc.
