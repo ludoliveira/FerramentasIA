@@ -34,7 +34,7 @@ Este projeto web apresenta uma interface simples para pesquisar e descobrir dife
 
 **Para visualizar o projeto no vercel:**
 
-https://ferramentas-ia.vercel.app/
+<a href="https://ferramentas-ia.vercel.app/" target="_blank">Acesse web para o Projeto</a>
 
 ## Tecnologias Utilizadas
 
