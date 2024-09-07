@@ -1,4 +1,8 @@
-# Ferramentas de Inteligência Artificial
+# Busca de Ferramentas de Inteligência Artificial
+
+**Desvendando o Mundo da Inteligência Artificial.**
+
+**Explore, descubra e experimente as ferramentas de IA mais inovadoras!**
 
 ## Descrição
 Este projeto web apresenta uma interface simples para pesquisar e descobrir diferentes ferramentas de inteligência artificial. O usuário pode digitar uma palavra-chave relacionada a uma IA ou tarefa, e a aplicação exibirá os resultados relevantes.
@@ -27,6 +31,11 @@ Este projeto web apresenta uma interface simples para pesquisar e descobrir dife
 * **Link:** Um link para o site oficial da ferramenta.
 
 **Exemplo:** Se você digitar "imagens", a ferramenta pode mostrar resultados como "Midjourney", "Stable Diffusion" e "DALL-E 2", com informações sobre cada uma delas.
+
+**Para visualizar o projeto no vercel:**
+
+https://ferramentas-ia.vercel.app/
+
 ## Tecnologias Utilizadas
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
