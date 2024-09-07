@@ -48,7 +48,7 @@ let dados = [
         aplicacao: "Resumo",
         gratuita: "Sim (com limitações)",
         site: "https://quillbot.com/",
-        tags: "gratuita gratuito grátis resumir sumarizar limitado limitada"
+        tags: "gratuita gratuito grátis resumir sumarização sumarizar limitado limitada"
     },
     {
         titulo: "SummarizeBot",
@@ -56,7 +56,7 @@ let dados = [
         aplicacao: "Resumo",
         gratuita: "Não",
         site: "https://www.summarizebot.com/", // Verifique se há versão gratuita ou trial
-        tags: "paga pago resumir sumarizar"
+        tags: "paga pago resumir sumarizar sumarização"
     },
     {
         titulo: "TL;DR This",
@@ -64,7 +64,7 @@ let dados = [
         aplicacao: "Resumo",
         gratuita: "Sim",
         site: "https://tldrthis.com/",
-        tags: "gratuita gratuito grátis resumir sumarizar ilimitado ilimitada"
+        tags: "gratuita gratuito grátis resumir sumarizar ilimitado ilimitada sumarização"
     },
     // IAs de Geração de texto
     {
