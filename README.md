@@ -34,10 +34,6 @@ Este projeto web apresenta uma interface simples para pesquisar e descobrir dife
 
 **Para visualizar o projeto no vercel:**
 
-<a href="https://ferramentas-ia.vercel.app/" target="_blank">Acesse web para o Projeto</a>
-
-Para acessar a ferramenta de IA, clique aqui:
-
 <a href="https://ferramentas-ia.vercel.app/" target="_blank">Ferramentas de IA</a>
 
 ## Tecnologias Utilizadas
